@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iosname
 - 👀 I’m interested in Computer Sec 
-- Work focus on Sec product research : 1.Scanner 2.WAF 3.IDPS 4.SIP 5.Anything interesting
+- 🏢 Work focus on Sec product research : 1.Scanner 2.WAF 3.IDPS 4.SIP 5.Anything interesting
 
 
 <!---
